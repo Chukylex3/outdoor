@@ -44,7 +44,7 @@
 /* hero-section css starts here */
 .hero-section {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0)),
-    url("IMAGES/header-hero.jpg");
+    url("header-hero.jpg");
   height: 100vh;
   background-position: center;
   background-size: cover;
